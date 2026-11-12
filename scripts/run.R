@@ -1,0 +1,11 @@
+# run.R
+source("./scripts/01_prepare_data.R")
+source("./scripts/02_generate_mps.R")
+source("./scripts/03_generate_predictions.R")
+source("./scripts/04_analyse_shap_importance.R")
+source("./scripts/05_check_probe_count.R")
+source("./scripts/06_get_adjusted_predictions.R")
+source("./scripts/07_generate_simple_models.R")
+source("./scripts/08_run_primary_analyses.R")
+source("./scripts/09_run_functional_analyses.R")
+source("./scripts/10_generate_additional_plot.R")
