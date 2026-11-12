@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code or model, please cite the paper below."
+title: "cortisol_response_mps"
+type: software
+license: MIT
+repository-code: "https://github.com/behgems/cortisol-response-mps"
+authors:
+  - family-names: Balfour
+    given-names: David
+    affiliation: "Flinders University"
+  - family-names: Mittinty
+    given-names: Murthy
+    affiliation: "Flinders University"
+  - family-names: Nguyen
+    given-names: Duc Phuc
+    affiliation: "Flinders University"
+  - family-names: Cohen-Woods
+    given-names: Sarah
+    affiliation: "Flinders University"
+preferred-citation:
+  type: article
+  title: "Development and cross-tissue validation of a machine learning-based methylation profile score for the cortisol response to stress"
+  authors:
+    - family-names: Balfour
+      given-names: David
+    - family-names: Mittinty
+      given-names: Murthy
+    - family-names: Nguyen
+      given-names: Duc Phuc
+    - family-names: Cohen-Woods
+      given-names: Sarah
+  journal: "Progress in Neuro-Psychopharmacology and Biological Psychiatry"
+  publisher:
+    name: Elsevier
+  volume: 151
+  start: 111992
+  year: 2026
+  month: 12
+  doi: "10.1016/j.pnpbp.2026.111992"
