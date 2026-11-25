@@ -1,3 +1,8 @@
+The file `./apply_ensemble/cortisol_response_mps_2026.rds` is not covered by
+the MIT License below. It is Copyright (c) 2026 David Balfour and Sarah
+Cohen-Woods, and is licensed under CC BY-NC 4.0 
+(https://creativecommons.org/licenses/by-nc/4.0/).
+
 MIT License
 
 Copyright (c) 2026 David Balfour and Sarah Cohen-Woods
